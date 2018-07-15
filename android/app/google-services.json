@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "331388725629",
+    "firebase_url": "https://walltap-f8489.firebaseio.com",
+    "project_id": "walltap-f8489",
+    "storage_bucket": "walltap-f8489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331388725629:android:721e54476da7c7e5",
+        "android_client_info": {
+          "package_name": "com.walltap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331388725629-7jvhe8o21du9lr5far8uh4a15u7fprqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walltap",
+            "certificate_hash": "2467bdf0e319c4c0157df1a33a17ea5c2a6748e8"
+          }
+        },
+        {
+          "client_id": "331388725629-1o28mk1ucguqv92vubsm9dcfchl4cmub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvryQzPtmPLsHP6M_6-lp5A079uK8yaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331388725629-aluamo199144mend9shrq7gvpdse4qj5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.nexmo",
+                "app_store_id": "123456"
+              }
+            },
+            {
+              "client_id": "331388725629-1o28mk1ucguqv92vubsm9dcfchl4cmub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

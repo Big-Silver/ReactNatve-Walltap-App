@@ -1,0 +1,15 @@
+export const WELCOME = 'WELCOME'
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const SIGNUP_USER_SUCCESS = 'SIGNUP_USER_SUCCESS'
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const SHOW_VAILD_EMAIL = 'SHOW_VAILD_EMAIL'
+export const SHOW_VAILD_PASSWORD = 'SHOW_VAILD_PASSWORD'
+export const USER_INFO = 'USER_INFO'
+export const ISLOADING = 'ISLOADING'
+export const WALL_UPDATE = 'wall_update';
+export const WALL_HEIGHT = 'wall_height';
+export const JOIN_WITH = 'JOIN_WITH'
+export const USER_MULTIPLIER = 'USER_MULTIPLIER'

@@ -1,0 +1,6 @@
+framework module Pods_WallTap {
+  umbrella header "Pods-WallTap-umbrella.h"
+
+  export *
+  module * { export * }
+}

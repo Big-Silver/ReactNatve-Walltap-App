@@ -1,0 +1,45 @@
+{
+  "name": "WallTap",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "apsl-react-native-button": "^3.0.2",
+    "babel-eslint": "^7.2.1",
+    "firebase": "^3.7.5",
+    "lodash": "^4.17.4",
+    "react": "15.4.2",
+    "react-native": "^0.39.0",
+    "react-native-admob": "^1.2.1",
+    "react-native-billing": "^2.3.0",
+    "react-native-facebook-login": "^1.4.0",
+    "react-native-firestack": "^2.3.9",
+    "react-native-in-app-utils": "^4.0.0",
+    "react-native-loading-spinner-overlay": "^0.4.4",
+    "react-native-navbar": "^1.6.0",
+    "react-native-oauth": "^2.1.16",
+    "react-native-router-flux": "^3.38.0",
+    "react-native-share": "^1.0.20",
+    "react-native-storage": "^0.1.5",
+    "react-native-twitter-signin": "0.0.1",
+    "react-redux": "^5.0.3",
+    "realm": "^1.3.1",
+    "redux": "^3.6.0",
+    "redux-actions": "^1.2.1",
+    "redux-logger": "^3.0.1",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
